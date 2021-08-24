@@ -1,0 +1,38 @@
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.315);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .content {
+    max-width: 900px;
+    background: white;
+    padding: 10px;
+  }
+  .title {
+    color: rgb(32, 32, 226);
+  }
+  .desc {
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+  button {
+    color: white;
+    background: rgb(32, 32, 226);
+    border: 1px solid rgb(32, 32, 226);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight:500 ;
+  }
+  button:hover {
+    border: 1px solid rgb(32, 32, 226);
+    color: rgb(32, 32, 226);
+    background-color: transparent;
+    cursor: pointer;
+  }
+  

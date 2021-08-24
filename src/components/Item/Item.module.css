@@ -1,0 +1,13 @@
+.card {
+    width: 300px;
+    height: auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 20px 0;
+  }
+  .image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: contain;
+  }
+  

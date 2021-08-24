@@ -1,3 +1,13 @@
+## Preview
+[!Preview](./src/images/Recipe1.PNG)
+[!Modal pop-up](./src/images/Recipe3.PNG)
+## About
+This is a project that consumes the MealDB API.
+A user is able to search for the recipe of a meal.
+
+## Technologies used:
+React, CSS Modules, MealDB API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
