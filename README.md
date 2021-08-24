@@ -1,6 +1,6 @@
 ## Preview
-[!Preview](./src/images/Recipe1.PNG)
-[!Modal pop-up](./src/images/Recipe3.PNG)
+[!Preview](./public/Recipe1.PNG)
+[!Modal pop-up](./public/Recipe3.PNG)
 ## About
 This is a project that consumes the MealDB API.
 A user is able to search for the recipe of a meal.
